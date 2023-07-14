@@ -3689,11 +3689,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\radim\\Documents\\Kurz\\MagistriMVC2\\MagistriMVC\\MagistriMVC.csproj",
+      "projectUniqueName": "C:\\Users\\radim\\Documents\\Kurz\\MagistriMVC\\MagistriMVC\\MagistriMVC.csproj",
       "projectName": "MagistriMVC",
-      "projectPath": "C:\\Users\\radim\\Documents\\Kurz\\MagistriMVC2\\MagistriMVC\\MagistriMVC.csproj",
+      "projectPath": "C:\\Users\\radim\\Documents\\Kurz\\MagistriMVC\\MagistriMVC\\MagistriMVC.csproj",
       "packagesPath": "C:\\Users\\radim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\radim\\Documents\\Kurz\\MagistriMVC2\\MagistriMVC\\obj\\",
+      "outputPath": "C:\\Users\\radim\\Documents\\Kurz\\MagistriMVC\\MagistriMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\radim\\AppData\\Roaming\\NuGet\\NuGet.Config",

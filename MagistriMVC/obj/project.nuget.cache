@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P79aLpkj9ty2zieXX449errQoUonNgKUXHyH9HoRhntIDKWwqE0uhRJbXrQEuV0bNABLsCBzK/Arfm0d1HPgEg==",
+  "dgSpecHash": "FQ1G0tESasoQ/eyI+aBdheMaJXUH5ZXHTMk9zbywqz/mjZTPjr6MOyp+/QGddLSQI29FeSPiwav9D1SkitSB0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\radim\\Documents\\Kurz\\MagistriMVC2\\MagistriMVC\\MagistriMVC.csproj",
+  "projectFilePath": "C:\\Users\\radim\\Documents\\Kurz\\MagistriMVC\\MagistriMVC\\MagistriMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\radim\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\radim\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
