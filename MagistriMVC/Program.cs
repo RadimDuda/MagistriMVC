@@ -12,7 +12,7 @@ builder.Services.AddControllersWithViews();
 //        builder.Configuration["ConnectionStrings: SchoolDbConnection"]);
 //});
 builder.Services.AddDbContext<ApplicationDbContext>(options => {
-    options.UseSqlServer(
+    options.UseNpgsql(
         builder.Configuration.GetConnectionString("SchoolDbConnection"));
 });
 builder.Services.AddIdentity<AppUser,

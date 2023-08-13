@@ -274,3 +274,5 @@ C:\Users\radim\Documents\Kurz\MagistriMVC\MagistriMVC\obj\Debug\net6.0\refint\Ma
 C:\Users\radim\Documents\Kurz\MagistriMVC\MagistriMVC\obj\Debug\net6.0\MagistriMVC.pdb
 C:\Users\radim\Documents\Kurz\MagistriMVC\MagistriMVC\obj\Debug\net6.0\MagistriMVC.genruntimeconfig.cache
 C:\Users\radim\Documents\Kurz\MagistriMVC\MagistriMVC\obj\Debug\net6.0\ref\MagistriMVC.dll
+C:\Users\radim\Documents\Kurz\MagistriMVC\MagistriMVC\bin\Debug\net6.0\Npgsql.dll
+C:\Users\radim\Documents\Kurz\MagistriMVC\MagistriMVC\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

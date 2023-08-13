@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FQ1G0tESasoQ/eyI+aBdheMaJXUH5ZXHTMk9zbywqz/mjZTPjr6MOyp+/QGddLSQI29FeSPiwav9D1SkitSB0A==",
+  "dgSpecHash": "xhXXXfd4lAhqdYm8MUntJRQubVCIB8Jl7XEQfmHqST8fl0XbzuRuQP5xA7IoMdD8pAYPfz8rZvJIuCdcjhPgtw==",
   "success": true,
   "projectFilePath": "C:\\Users\\radim\\Documents\\Kurz\\MagistriMVC\\MagistriMVC\\MagistriMVC.csproj",
   "expectedPackageFiles": [
@@ -47,6 +47,8 @@
     "C:\\Users\\radim\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\radim\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\radim\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\radim\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\radim\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.4\\npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512",
     "C:\\Users\\radim\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\radim\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\radim\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
